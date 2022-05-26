@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Osinowo Paul</h1>
-<h3 align="center">Passionate software developer and engineer.</h3>
 
 - 🌱 I’m currently learning how to build full-stack react apps with server-side rendering **NextJs TypeScript**
 
